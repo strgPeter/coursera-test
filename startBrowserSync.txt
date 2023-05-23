@@ -1,1 +1,4 @@
 browser-sync start --server --directory --files 
+git commit -m "message"
+git push
+git status
